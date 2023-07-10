@@ -4,3 +4,4 @@ Resources:
     Description: Creating Amazon S3 bucket from CloudFormation
     Properties:
       BucketName: mytestbucket21
+      
